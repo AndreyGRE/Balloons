@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/Balloons/static/css/main.e88dd1bf.css",
+    "main.js": "/github.io/Balloons/static/js/main.6ab4cb54.js",
+    "static/js/787.9ea9f621.chunk.js": "/github.io/Balloons/static/js/787.9ea9f621.chunk.js",
+    "index.html": "/github.io/Balloons/index.html",
+    "main.e88dd1bf.css.map": "/github.io/Balloons/static/css/main.e88dd1bf.css.map",
+    "main.6ab4cb54.js.map": "/github.io/Balloons/static/js/main.6ab4cb54.js.map",
+    "787.9ea9f621.chunk.js.map": "/github.io/Balloons/static/js/787.9ea9f621.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88dd1bf.css",
+    "static/js/main.6ab4cb54.js"
+  ]
+}
